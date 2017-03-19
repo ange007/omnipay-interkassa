@@ -1,0 +1,46 @@
+{
+	"name": "ange007/omnipay-interkassa",
+	"type": "library",
+	"description": "InterKassa driver for the Omnipay PHP payment processing library",
+	"keywords": [
+		"php",
+		"omnipay",
+		"interkassa",
+		"merchant",
+		"payment"
+	],
+	"homepage": "https://github.com/ange007/omnipay-interkassa",
+	"license": "MIT",
+	"support": {
+		"source": "https://github.com/ange007/omnipay-interkassa",
+		"issues": "https://github.com/ange007/omnipay-interkassa/issues",
+		"wiki": "https://github.com/ange007/omnipay-interkassa/wiki"
+	},
+	"authors": [
+		{
+			"name": "Vladimir B.",
+			"homepage": "https://github.com/ange007"
+		},
+		{
+			"name": "hiqdev",
+			"homepage": "http://hiqdev.com/"
+		}
+	],
+	"require": {
+		"omnipay/common": "~2.3"
+	},
+	"require-dev": {
+		"omnipay/tests": "~2.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"Omnipay\\InterKassa\\": "src"
+		}
+	},
+	"autoload-dev": {
+		"psr-4": {
+			"Omnipay\\InterKassa\\Tests\\": "tests/unit",
+			"Omnipay\\InterKassa\\Stubs\\": "tests/stubs"
+		}
+	}
+}
