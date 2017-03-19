@@ -1,6 +1,6 @@
 # ange007/omnipay-interkassa
 
-## [0.1.3] - 2017-03-19
+## [0.1.1] - 2017-03-19
 
 - Code optimization.
 - **/src/Message/CompletePurchase(Request|Response).php** rename to **Notification(Request|Response)**. And added new **CompletePurchase(Request|Response)** with other functions.

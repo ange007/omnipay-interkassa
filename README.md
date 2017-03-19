@@ -7,7 +7,7 @@ Omnipay: InterKassa
 [![Total Downloads](https://poser.pugx.org/ange007/omnipay-interkassa/downloads)](https://packagist.org/packages/ange007/omnipay-interkassa)
 [![Build Status](https://scrutinizer-ci.com/g/ange007/omnipay-interkassa/badges/build.png?b=master)](https://scrutinizer-ci.com/g/ange007/omnipay-interkassa/build-status/master)
 [![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/ange007/omnipay-interkassa.svg)](https://scrutinizer-ci.com/g/ange007/omnipay-interkassa/)
-[![Dependency Status](https://www.versioneye.com/user/projects/58ce762ddcaf9e0041b5ba4b/badge.svg)](https://www.versioneye.com/user/projects/58ce762ddcaf9e0041b5ba4b)
+[![Dependency Status](https://www.versioneye.com/user/projects/58ce8fadcef500003d13614c/badge.svg)](https://www.versioneye.com/user/projects/58ce8fadcef500003d13614c)
 
 [Omnipay](https://github.com/omnipay/omnipay) is a framework agnostic, multi-gateway payment
 processing library for PHP 5.3+.
